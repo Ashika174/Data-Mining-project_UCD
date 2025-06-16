@@ -60,3 +60,9 @@ This project applies machine learning techniques to detect fraudulent activities
     with open('lgb_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
+## Team Members
+- Ashika Sreekanta Naik
+- Vaishnavi Manjunath
+- Guozhi Wang
+- Alison Wambui Kuria
+- Muntazir Mehdi Ejaz Husain Syed
