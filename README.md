@@ -14,7 +14,7 @@ This project applies machine learning techniques to detect fraudulent activities
 ## Files in the Repository
 
 - `Fraud_Detection.ipynb` – Main Jupyter Notebook with full data exploration, feature engineering, model training, and evaluation.
-- `transaction_dataset.csv` – Input dataset containing transaction data and fraud labels.
+- `student_dataset.csv` – Input dataset containing transaction data and fraud labels.
 - `lgb_model.pkl` – Saved LightGBM model for reuse and inference.
 - `README.md` – You’re here! This file provides an overview of the project.
 
